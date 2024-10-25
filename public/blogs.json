@@ -1,52 +1,44 @@
 [
-    {
-        "id": 1,
-        "cover": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "title": "Exploring the Mysteries of the Ocean",
-        "author": "Alice Waters",
-        "author_img": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "posted_date": "2023-10-12",
-        "reading_time": 7,
-        "hashtags": ["#Ocean", "#Exploration", "#MarineLife"]
-    },
-    {
-        "id": 2,
-        "cover": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "title": "The Future of Artificial Intelligence",
-        "author": "John Doe",
-        "author_img": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "posted_date": "2023-10-15",
-        "reading_time": 12,
-        "hashtags": ["#AI", "#Technology", "#Future"]
-    },
-    {
-        "id": 3,
-        "cover": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "title": "Understanding Quantum Computing",
-        "author": "Dr. Sarah Johnson",
-        "author_img": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "posted_date": "2023-10-18",
-        "reading_time": 9,
-        "hashtags": ["#QuantumComputing", "#Physics", "#Innovation"]
-    },
-    {
-        "id": 4,
-        "cover": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "title": "Sustainable Living in the Modern World",
-        "author": "Emily Green",
-        "author_img": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "posted_date": "2023-10-20",
-        "reading_time": 5,
-        "hashtags": ["#Sustainability", "#EcoFriendly", "#GreenLiving"]
-    },
-    {
-        "id": 5,
-        "cover": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "title": "The Rise of Electric Vehicles",
-        "author": "Michael Thompson",
-        "author_img": "https://i.ibb.co.com/K2m8WQZ/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
-        "posted_date": "2023-10-22",
-        "reading_time": 8,
-        "hashtags": ["#ElectricVehicles", "#Transportation", "#CleanEnergy"]
-    }
+        {
+            "id": 1,
+            "cover": "https://i.ibb.co.com/ncHBS89/1.jpg",
+            "title": "Exploring the Mysteries of the Ocean",
+            "author": "Alice Waters",
+            "author_img": "https://i.ibb.co.com/K0Xfjxz/boy1.png",
+            "posted_date": "2023-10-12",
+            "reading_time": 7,
+            "hashtags": ["#Ocean", "#Exploration", "#MarineLife"]
+        },
+        {
+            "id": 2,
+            "cover": "https://i.ibb.co.com/C6RqY9k/2.png",
+            "title": "The Future of Artificial Intelligence",
+            "author": "John Doe",
+            "author_img": "https://i.ibb.co.com/g7khh4T/boy2.jpg",
+            "posted_date": "2023-10-15",
+            "reading_time": 12,
+            "hashtags": ["#AI", "#Technology", "#Future"]
+        },
+        {
+            "id": 3,
+            "cover": "https://i.ibb.co.com/WBJxW5Q/3.png",
+            "title": "Understanding Quantum Computing",
+            "author": "Dr. Sarah Johnson",
+            "author_img": "https://i.ibb.co.com/pPhxVpy/girl1.jpg",
+            "posted_date": "2023-10-18",
+            "reading_time": 9,
+            "hashtags": ["#QuantumComputing", "#Physics", "#Innovation"]
+        },
+        {
+            "id": 4,
+            "cover": "https://i.ibb.co.com/MpPdSJm/4.jpg",
+            "title": "Sustainable Living in the Modern World",
+            "author": "Emily Green",
+            "author_img": "https://i.ibb.co.com/g3d5Txm/girl2.jpg",
+            "posted_date": "2023-10-20",
+            "reading_time": 5,
+            "hashtags": ["#Sustainability", "#EcoFriendly", "#GreenLiving"]
+        }
+        
 ]
+
